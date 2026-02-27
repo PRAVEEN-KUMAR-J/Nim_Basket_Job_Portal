@@ -46,13 +46,13 @@ export default function Footer() {
             <ul className="space-y-3">
               <li>
                 <a
-                  href="nimbasketjobportal.vercel.app"
+                  href="https://nim-basket-job-portal.vercel.app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-2 text-gray-400 hover:text-orange-400 transition-colors text-sm"
                 >
                   <Globe size={14} className="flex-shrink-0" />
-                  nimbasketjobportal.vercel.app
+                  nim-basket-job-portal.vercel.app
                 </a>
               </li>
               <li>

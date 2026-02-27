@@ -10,7 +10,7 @@ export default function Contact() {
 
         <div className="grid sm:grid-cols-3 gap-6">
           <a
-            href="nimbasketjobportal.vercel.app"
+            href="https://nim-basket-job-portal.vercel.app"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-white rounded-xl p-6 text-center hover:shadow-lg transition-shadow"
@@ -19,7 +19,7 @@ export default function Contact() {
               <Globe size={24} className="text-orange-600" />
             </div>
             <h3 className="font-semibold text-gray-900 mb-2">Website</h3>
-            <p className="text-sm text-gray-600 break-all">nimbasketjobportal.vercel.app</p>
+            <p className="text-sm text-gray-600 break-all">nim-basket-job-portal.vercel.app</p>
           </a>
 
           <a
